@@ -81,3 +81,7 @@ p {
   html {
     scroll-behavior: smooth;
   }
+
+  iframe {
+    border-radius: 25px;
+  }
