@@ -48,7 +48,7 @@ li a:hover{
     position: absolute;
     color: white;
     top: 45%;
-    transform: translateY(-50%);
+
     text-align: center;
 }
 .content h1{
@@ -90,7 +90,9 @@ button:hover{
 html {
     scroll-behavior: smooth;
 }
-.Christmas {
-    height: 1200px;
+.Videos{
+    width: 100%;
+    position: absolute;
+    color: white;
     text-align: center;
 }
