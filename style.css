@@ -90,3 +90,7 @@ button:hover{
 html {
     scroll-behavior: smooth;
 }
+.Spacing {
+    height: 1300px;
+    text-align: center;
+}
