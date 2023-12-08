@@ -87,3 +87,6 @@ button:hover{
         height: auto;
     }
 }
+html {
+    scroll-behavior: smooth;
+}
